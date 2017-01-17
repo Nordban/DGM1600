@@ -1,2 +1,0 @@
-weather in Utah is cold and cloudy.
-But it isn't snowing.
